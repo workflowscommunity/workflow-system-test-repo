@@ -12,6 +12,11 @@ description: |
   Fusce id mollis sapien, vitae tempor purus. Phasellus sagittis nisl auctor, tempor 
   elit in, gravida lectus.
 
+documentation:
+  general: https://workflows.community
+  installation: https://workflows.community
+  tutorial: https://workflows.community
+
 social:
   twitter: workflowsci
   youtube: https://www.youtube.com/channel/UCqCnXqWqKe9vF6cqKOj1CYw
