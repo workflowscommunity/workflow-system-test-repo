@@ -11,6 +11,7 @@ description: |
   elit ut, eleifend vestibulum nunc. Suspendisse quis euismod urna, id euismod ex. 
   Fusce id mollis sapien, vitae tempor purus. Phasellus sagittis nisl auctor, tempor 
   elit in, gravida lectus.
+language: Python
 
 documentation:
   general: https://workflows.community
