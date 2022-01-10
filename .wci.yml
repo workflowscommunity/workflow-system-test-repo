@@ -21,3 +21,19 @@ documentation:
 social:
   twitter: workflowsci
   youtube: https://www.youtube.com/channel/UCqCnXqWqKe9vF6cqKOj1CYw
+
+execution_environment:
+  interfaces:
+    - Python API
+    - Java API
+    - GUI
+  resource_managers:
+    - Slurm
+    - LSF
+    - PBS
+    - Cobalt
+    - Flux
+  transfer_protocols:
+    - SCP
+    - Globus
+    - S3
