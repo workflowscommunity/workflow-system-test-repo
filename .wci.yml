@@ -1,4 +1,17 @@
 name: Workflow System Test
+headline: Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula.
+description: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis ultrices arcu, 
+  quis ultrices tellus. Aenean non placerat sapien, nec aliquam quam. Mauris gravida 
+  quam vel risus cursus, nec maximus metus gravida. Cras et bibendum metus, a 
+  tristique dolor. Proin eget ante quis sapien interdum lobortis. Nulla sem lorem, 
+  tincidunt quis erat nec, efficitur sodales odio. Pellentesque efficitur viverra 
+  ligula quis interdum. Quisque efficitur ex urna, sit amet vehicula nisl finibus id. 
+  Sed sit amet congue nisl, congue tincidunt urna. Aenean dui arcu, scelerisque non 
+  elit ut, eleifend vestibulum nunc. Suspendisse quis euismod urna, id euismod ex. 
+  Fusce id mollis sapien, vitae tempor purus. Phasellus sagittis nisl auctor, tempor 
+  elit in, gravida lectus.
+
 social:
   twitter: workflowsci
   youtube: https://www.youtube.com/channel/UCqCnXqWqKe9vF6cqKOj1CYw
