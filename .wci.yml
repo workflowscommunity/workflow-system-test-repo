@@ -13,7 +13,10 @@ description: |
   Fusce id mollis sapien, vitae tempor purus. Phasellus sagittis nisl auctor, tempor 
   elit in, gravida lectus.
 language: Python
-latest_version: 0.1.0-beta
+
+release: 
+  version: 0.1.0-beta
+  date: 2021-01-11
 
 documentation:
   general: https://workflows.community
